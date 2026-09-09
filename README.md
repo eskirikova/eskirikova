@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Senior Front-End Engineer focused on building web applications, performance metrics, and AI-driven internal tools.
+I'm a Front-End Engineer focused on building web applications, performance metrics, and AI-driven internal tools.
 
 * 🔭 I’m currently working on AI tools for developer efficiency & code evaluation
 * 🌱 I’m currently diving deeper into Web Vitals optimization and low-level AST transformations
